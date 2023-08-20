@@ -1,0 +1,7 @@
+Cython>=0.29.26
+fastthreadpool>=1.7.0
+fastlogging>=0.9.6
+colorama>=0.4.4
+pynacl>=1.4.0
+tqdm
+apprise
